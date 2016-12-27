@@ -15,7 +15,7 @@ Se puede probar con los siguientes links:
 * http://artsxcraft.libsyn.com/rss
 * http://www.davidbarrkirtley.com/podcast/geeksguideshow.xml
 * http://fraunhoferventure.podspot.de/rss
-http://www.loc.gov/podcasts/musicandthebrain/musicandthebrain.xml
+* http://www.loc.gov/podcasts/musicandthebrain/musicandthebrain.xml
 
 
 
