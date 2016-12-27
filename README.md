@@ -8,7 +8,7 @@ Este proyecto recibe como parámetro un link RSS de podcast, y parsea el xml par
 Para usar este proyecto es necesario tener instalado lo siguiente:
 
 * Paquete de PHP: SimpleXML.
-* Activar en php.ini allow_url_fopen.
+* CURL
 
 ## Tests
 Se puede probar con los siguientes links:
